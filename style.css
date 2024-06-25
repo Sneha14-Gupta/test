@@ -1,0 +1,12 @@
+@font-face {
+    font-family: nature;
+    src: url(BlackVintage.otf);
+}
+
+
+
+ body{
+    background-color: #e68609;
+    font-family:nature;
+    color: #cbeef3;
+} 
